@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+   <document>
+      <alertTemplate style="background-color:rgba(0,0,255,0.3)">
+        <title>Welcome to TVML</title>
+        <description>A TVML app creates a client-server connection to retrieve information stored on a server. The retrieved information is parsed into a document and displayed on a TV screen</description>
+      </alertTemplate>
+</document>
+
